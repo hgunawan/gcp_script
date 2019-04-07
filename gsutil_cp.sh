@@ -1,0 +1,1 @@
+gsutil cp /training/road-not-taken.txt gs://$BUCKET/sampledata/road-not-taken.txt
